@@ -1,0 +1,1 @@
+- [Prime.js](https://github.com/arvinsumohid/algorithms/blob/master/prime.js) - Binary search algorithm
