@@ -1,1 +1,2 @@
 - [Prime.js](https://github.com/arvinsumohid/algorithms/blob/master/prime.js) - Binary search algorithm
+- [Bloom Filter.js](https://github.com/arvinsumohid/algorithms/blob/master/bloomFilter.js) - Bloom Filter algorithm
